@@ -1,0 +1,5 @@
+﻿Ligne 1 : Debut du fichier
+Ligne 2 : Contenu neutre
+Ligne 3 : Contenu neutre
+Ligne 4 : Contenu neutre
+Ligne 5 : Fin du fichier
